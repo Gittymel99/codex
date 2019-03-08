@@ -20,6 +20,18 @@ An easy test is – could you hold a video conference call with a client from wh
 
 Remember, if you’re working with confidential information on your screen, then make sure you’re working somewhere that is appropriate for that.
 
+## How do I ensure my desk/work area is secure?
+
+Ensure that all sensitive or confidential information in hardcopy or electronic form is secure when you are away from your desk/work area.
+
+Laptops must be password locked when left unattended.
+
+If you are going to be away from your desk or work area, remove all restricted or sensitive information and lock it in a drawer.
+
+Filing cabinets containing restricted or sensitive information must be kept closed and locked when not in use.
+
+Adherence to these guidelines is important to maintain the companies’ ISO27001 & ISO9001 accreditaions.
+
 ## How will people know where I am?
 
 It’s really important that [Bamboo](https://deeson.bamboohr.co.uk) (our holiday booking system) and your own [Forecast](https://www.getharvest.com/forecast) and Google Calendar are up to date – the onus is on you. It’s annoying for other people trying to book meetings or plan their collaboration with you otherwise. 
